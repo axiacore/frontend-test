@@ -15,6 +15,7 @@ Tener en cuenta los siguientes requerimientos para realizar la funcionalidad de 
 * Al seleccionar una se activa el botón de limpiar y se muestra el número de opciones seleccionadas en el botón de filtrar
 * Al hace clic en el botón de filtrar se cierra el modal y se muestran los productos que cumplen con los filtros seleccionados
 * Al hacer clic en el botón de limpiar quita las opciones seleccionados del formulario de filtros y carga el listado con todas las opciones
+* Son tres opciones de filtro: ```Rubia (id=1)```, ```Morena (id=2)``` y ```Roja (id=3)```
 
 ### Requisitos técnicos
 * Usar sass para crear los estilos, compilar los archivos sass a css localmente y agregarlos al proyecto. (solo se revisan los archivos sass).
